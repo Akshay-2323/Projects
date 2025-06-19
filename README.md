@@ -38,6 +38,8 @@ To build an advanced financial dashboard using Power BI that enables dynamic tra
 
 ---
 
+![Image](https://github.com/user-attachments/assets/ad11b6cf-0c51-41e9-9558-a773e341b796)
+
 ## 👤 Author
 **Akshay Sharma**  
 _Data Analyst | Power BI Developer_  
