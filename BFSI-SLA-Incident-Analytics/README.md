@@ -1,8 +1,5 @@
-Absolutely. For GitHub, the README should be **professional, recruiter-friendly, easy to scan, and technically credible**. It should explain the project without becoming too long.
 
-Based on the project we built — **BFSI SLA & Incident Analytics Dashboard** with Python + SQL Server + Power BI and 150K incidents — use the following as your `README.md`.
 
-````markdown
 # BFSI SLA & Incident Analytics
 
 ## 📊 Project Overview
@@ -56,9 +53,6 @@ The primary objective of this project is to help operations and management teams
                   │
                   ▼
        Interactive Dashboard
-````
-
----
 
 ## 🛠️ Technology Stack
 
@@ -290,8 +284,6 @@ The Power BI model includes measures for:
 ---
 
 # 📁 Project Structure
-
-```text
 BFSI-SLA-Incident-Analytics/
 │
 ├── PowerBI/
@@ -315,10 +307,6 @@ BFSI-SLA-Incident-Analytics/
 │   └── 05_Ticket_Detailed_Analysis.png
 │
 └── README.md
-```
-
----
-
 # 🐍 Python Workflow
 
 Python is used as part of the data preparation and loading process.
@@ -394,7 +382,6 @@ The dashboard is designed to answer questions such as:
 
 The project follows a structured analytics workflow:
 
-```text
 1. Generate / Prepare Data
           ↓
 2. Validate Data
@@ -412,9 +399,6 @@ The project follows a structured analytics workflow:
 8. Build Interactive Dashboard
           ↓
 9. Analyze Operational KPIs
-```
-
----
 
 # 👨‍💻 Skills Demonstrated
 
@@ -493,7 +477,6 @@ The project demonstrates an end-to-end workflow from:
 
 Data Analyst | Data Engineering | SQL | Python | Power BI
 
-```
 
 ### One important recommendation
 
@@ -502,4 +485,3 @@ I would **not** put phrases like **"real-time dashboard"** or **"real-time data"
 Also, don't put your local SQL Server name (`Akshay\SQLEXPRESS`) or local Windows paths anywhere in GitHub.
 
 This README is now strong enough to be the **main landing page for the project**. The next thing I'd do before making the repository public is make sure your **Python files are sanitized**, then we can make the GitHub folder structure clean and recruiter-ready.
-```
