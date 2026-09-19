@@ -286,6 +286,9 @@ The Power BI model includes measures for:
 ---
 
 # 📁 Project Structure
+
+```text
+
 BFSI-SLA-Incident-Analytics/
 │
 ├── PowerBI/
@@ -309,6 +312,9 @@ BFSI-SLA-Incident-Analytics/
 │   └── 05_Ticket_Detailed_Analysis.png
 │
 └── README.md
+
+```
+
 # 🐍 Python Workflow
 
 Python is used as part of the data preparation and loading process.
