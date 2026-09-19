@@ -7,11 +7,11 @@ import urllib
 # SQL SERVER CONFIGURATION
 # ===================================================
 
-SERVER = "Akshay\\SQLEXPRESS"
+SERVER = "YOUR_SQL_SERVER\\SQLEXPRESS"
 
 DATABASE = "BFSI_SLA_Analytics"
 
-RAW_DATA = r"E:\Akshay Projects\Job Project\Project 1\Raw_data"
+RAW_DATA = r"path/to/Raw_data"
 
 # ===================================================
 # SQL CONNECTION
