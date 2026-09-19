@@ -192,52 +192,62 @@ Contoso-Financial-Dashboard/
 │
 └── README.md
 
-🖼️ Dashboard Preview
+```
 
-💡 Key Business Questions Answered
+## 🖼️ Dashboard Preview
+---
+
+## 💡 Key Business Questions Answered
 
 The dashboard helps answer questions such as:
 
-What is the overall sales and profit performance?
-How many orders were generated?
-Which countries generate the highest order volume?
-Which countries contribute the most profit?
-Which business segments generate the highest profit?
-Which products are the top contributors to sales?
-How are sales changing over time?
-How are discounts distributed across the business?
-How does the current performance compare with the previous year?
-📌 Skills Demonstrated
+* What is the overall sales and profit performance?
+* How many orders were generated?
+* Which countries generate the highest order volume?
+* Which countries contribute the most profit?
+* Which business segments generate the highest profit?
+* Which products are the top contributors to sales?
+* How are sales changing over time?
+* How are discounts distributed across the business?
+* How does the current performance compare with the previous year?
+
+---
+
+## 📌 Skills Demonstrated
 
 This project demonstrates practical skills in:
 
-Power BI Dashboard Development
-Data Visualization
-Financial Analysis
-Data Modeling
-Star Schema
-Power Query
-DAX
-KPI Development
-Time Intelligence
-Interactive Filtering
-Business Intelligence Reporting
-Dashboard Design
-🚀 How to Use
-Clone or download this repository.
-Open the Financial Project.pbix file using Power BI Desktop.
-Review the data model and measures.
-Use the Country and Date filters to interact with the dashboard.
-Explore the financial KPIs and analytical visuals.
+* Power BI Dashboard Development
+* Data Visualization
+* Financial Analysis
+* Data Modeling
+* Star Schema
+* Power Query
+* DAX
+* KPI Development
+* Time Intelligence
+* Interactive Filtering
+* Business Intelligence Reporting
+* Dashboard Design
 
-The original source Excel file is not included in this repository. If Power BI prompts for the original data source when refreshing the report, the source file would need to be reconnected.
+---
+
+## 🚀 How to Use
+
+1. Clone or download this repository.
+2. Open the `Financial Project.pbix` file using Power BI Desktop.
+3. Review the data model and measures.
+4. Use the Country and Date filters to interact with the dashboard.
+5. Explore the financial KPIs and analytical visuals.
+
+> The original source Excel file is not included in this repository. If Power BI prompts for the original data source when refreshing the report, the source file would need to be reconnected.
+
 
 👤 Author
 
 Akshay Sharma
 
 Data Analyst | Power BI Developer
-
 
 
 ### One change I strongly recommend in your GitHub folder
