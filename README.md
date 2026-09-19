@@ -1,49 +1,151 @@
-# 💰 Contoso Financial Dashboard – Power BI Project
+# 👋 Akshay Sharma
 
-This Power BI dashboard analyzes the financial performance of Contoso, a multinational retailer. It provides deep insights into sales, profits, and discount impacts across different products, countries, and business segments.
+### Data Analyst | Data Engineer | SQL | Python | Power BI
 
----
+Welcome to my GitHub portfolio.
 
-## 🎯 Project Objective
-To build an advanced financial dashboard using Power BI that enables dynamic tracking of core KPIs like Sales, Profit, COGS, Discounts, and YOY growth using star schema modeling and DAX calculations.
+I build data analytics and business intelligence projects using **SQL, Python, Power BI, DAX, and data modeling**.
 
----
-
-## 📂 Dataset
-- Dataset: Contoso Financial Sample (Excel)
-- Source: Microsoft Sample Data
-- Fields: Date, Product, Country, Segment, Sales, Profit, Discounts, Units Sold, etc.
+My projects focus on transforming raw data into structured analytical solutions, automated data pipelines, KPI reporting, and interactive dashboards.
 
 ---
 
-## 🧩 Data Model
-- Fact Table: Sales
-- Dimension Tables: Date, Product, Country, Segment
-- Schema: Star Schema for clean and efficient modeling
+## 📂 Featured Projects
+
+### 1. 📊 BFSI SLA & Incident Analytics
+
+**Technologies:** SQL Server | Python | Power BI | DAX
+
+An end-to-end analytics project focused on incident management and SLA performance in a BFSI operations environment.
+
+The project covers:
+
+- Incident data generation and processing
+- SQL Server database design
+- Dimension and fact table modeling
+- Python-based data generation and loading
+- SLA compliance analysis
+- Incident and root-cause analysis
+- Team and operational performance
+- Ticket-level detailed analysis
+- Interactive Power BI dashboards
+
+👉 [View BFSI SLA & Incident Analytics](./BFSI-SLA-Incident-Analytics/)
 
 ---
 
-## 📈 DAX Measures
-- `Total Sales`, `Total Profit`, `Units Sold`
-- `Profit Margin %`, `Discount %`, `COGS %`
-- `YOY Sales Growth %`, `Sales LY`
+### 2. 💰 Contoso Financial Analysis Dashboard
+
+**Technologies:** Power BI | Power Query | DAX | Data Modeling
+
+An interactive financial analytics dashboard designed to analyze:
+
+- Sales performance
+- Profit and profit margin
+- Orders
+- Discounts
+- Country-level performance
+- Segment profitability
+- Top products by sales
+- Sales trends
+- Year-over-year performance
+
+👉 [View Financial Dashboard](./Financial-Dashboard/)
 
 ---
 
-## 🧠 Tools Used
-- Power BI Desktop
-- Power Query
+## 🛠️ Technical Skills
+
+### Data Analytics
+- Data Analysis
+- KPI Development
+- Business Intelligence
+- Data Visualization
+- Financial Analysis
+- SLA & Incident Analytics
+
+### Programming & Querying
+- Python
+- SQL
 - DAX
-- GitHub
+
+### Microsoft & BI Tools
+- Power BI
+- Power Query
+- SQL Server
+- Excel
+
+### Data Engineering
+- ETL / ELT Concepts
+- Data Cleaning
+- Data Transformation
+- Fact & Dimension Modeling
+- Star Schema
+- Data Loading Pipelines
 
 ---
 
-![Image](https://github.com/user-attachments/assets/ad11b6cf-0c51-41e9-9558-a773e341b796)
+## 📊 Portfolio Focus
 
-## 👤 Author
-**Akshay Sharma**  
-_Data Analyst | Power BI Developer_  
+My portfolio demonstrates experience across the complete analytics workflow:
+
+```text
+Raw Data
+    ↓
+Data Preparation
+    ↓
+Python / SQL Processing
+    ↓
+Data Modeling
+    ↓
+DAX & KPI Development
+    ↓
+Power BI Visualization
+    ↓
+Business Insights
+```
+
+
+
+
+🎯 Career Focus
+
+I am interested in opportunities involving:
+
+1- Data Analyst
+2- BI Analyst
+3- Power BI Developer
+4- SQL Developer
+5- Data Engineer
+
+👤 About Me
+
+Akshay Sharma
+
+Data Analyst | Data Engineer | Power BI
+
 📧 aakshaysharma24@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/akshay-sharma-o3/?originalSubdomain=in) | [GitHub](https://github.com/Akshay-2323)
-# Projects
-My Projects
+
+
+⭐ Feel free to explore the projects in this repository.
+
+```text
+Projects
+│
+├── 📊 BFSI-SLA-Incident-Analytics
+│   ├── PowerBI
+│   ├── Python
+│   ├── SQL
+│   ├── Screenshots
+│   └── README.md
+│
+├── 💰 Financial-Dashboard
+│   ├── PowerBI
+│   ├── Screenshots
+│   └── README.md
+│
+└── 📄 README.md
+
+
+
+
