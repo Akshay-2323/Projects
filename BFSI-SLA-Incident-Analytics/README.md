@@ -93,9 +93,9 @@ The project contains dimensions for:
 
 The central fact table is:
 
-```text
+
 fact.Fact_Incident
-```
+
 
 It contains incident-level information including:
 
