@@ -31,7 +31,7 @@ The primary objective of this project is to help operations and management teams
 
 ## 🏗️ Solution Architecture
 
-
+```text
                 Python
                   │
                   ▼
@@ -53,7 +53,7 @@ The primary objective of this project is to help operations and management teams
                   │
                   ▼
        Interactive Dashboard
-
+```
 ## 🛠️ Technology Stack
 
 | Technology | Purpose                                                          |
